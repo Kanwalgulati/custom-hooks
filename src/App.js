@@ -1,10 +1,10 @@
 import "./App.css";
-import UseHistory from "./components/UseHistory";
+import UseCustomMemo from "./components/UseCustomMemo";
 
 function App() {
   return (
     <div className="App">
-      <UseHistory />
+      <UseCustomMemo />
     </div>
   );
 }
